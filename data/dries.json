@@ -1,3 +1,50 @@
 {
-  "name" : "dries"
+    "generalDescription": "My current field of depth is the products suit of Adobe for creating content. I have the most experience with the Adobe Experience Manager (AEM). Almost all project mentioned below have a reference to AEM. I have medium knowledge with other products like  Adobe Analytics, Adobe Launch, Adobe Target",
+    "experience": [
+      {
+        "projectName": "Amplexor Service Center",
+        "period": "October 2018 - January 2019 (4 months)",
+        "description": "Supportive role helping out issues on finished projects. Minimal implementation work. Working for muliple clients at the same time like: Provance of Antwerp, Euroclear, ...",
+        "technologies": "Adobe Experience Manager, Java, HTML, CSS, Javascript, Solr",
+        "methodoligies": "Scrum, Jira, Bitbucket, ",
+        "websitesLinks": [
+          "https://www.provant.be",
+          "https://www.euroclear.com/en.html"
+        ]
+      },
+      {
+        "projectName": "Mediafin (De Tijd/L'Echo)",
+        "period": "January 2019 - March 2019",
+        "description": "Working on new features on the websites of MediaFin (L'Echo and De Tijd)",
+        "technologies": "Adobe Experience Manager, Apache Kafka, Java, HTML, CSS, Javascript, ReactJs",
+        "methodoligies": "Agile, Scrum, Jira, Bitbucket, Jenkins",
+        "websitesLinks": [
+          "https://www.tijd.be/",
+          "https://www.lecho.be/"
+        ]
+      },
+      {
+        "projectName": "Goodyear (Tires)",
+        "period": "March 2019 - August 2019",
+        "description": "",
+        "technologies": "Adobe Experience Manager, Java, HTML, CSS, Javascript, React, React Redux",
+        "methodoligies": "Agile, Scrum, Jira, Bitbucket, Bamboo",
+        "websitesLinks": [
+          "https://www.dunlop.eu/de_de/consumer.html",
+          "https://www.goodyear.eu/nl_be/consumer.html"
+        ]
+      },
+      {
+        "projectName": "KBC Bank",
+        "period": "August 2019 - current",
+        "description": "",
+        "technologies": "Adobe Experience Manager, Apache Kafka, Java, HTML, CSS, Javascript, ReactJs",
+        "methodoligies": "Agile, Scrum, Jira, Bitbucket, Jenkins",
+        "websitesLinks": [
+          "https://www.dunlop.eu/de_de/consumer.html",
+          "https://www.goodyear.eu/nl_be/consumer.html"
+        ]
+      }
+    ]
+  }
 }
